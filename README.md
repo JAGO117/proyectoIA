@@ -6,3 +6,4 @@ Los algoritmo implementados son:
 * Correlaciones (Pearson, Kendall, Spearman)
 * Estimación de similitudes (matriz de distancias)
 * Clustering particional (K-means)
+* Regresión logística
